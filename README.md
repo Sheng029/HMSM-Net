@@ -1,10 +1,4 @@
-This repository contains the (testing) codes and trained models for the paper "HMSM-Net: Hierarchical multi-scale matching network for disparity estimation of high-resolution satellite stereo images" by Sheng He, Shenhong Li, San Jiang, and Wanshou Jiang*, including:
-
-1. The proposed HMSM-Net;
-2. Re-implementation of DenseMapNet;
-3. Re-implementation of StereoNet;
-4. Re-implementation of PSMNet;
-5. Re-implementation of BGA-Net.
+This repository contains the (testing) codes and trained models for the paper "HMSM-Net".
 
 Environment:
 Ubuntu 20.04 or Windows 10, Python 3.7, CUDA 11.2 and cuDNN 8.1.1, TensorFlow (2.5.0). All models were trained using an RTX 3090 GPU.
